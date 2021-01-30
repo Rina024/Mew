@@ -1,0 +1,118 @@
+.menu a {text-decoration: none;
+	text-align: center;
+	color: black;
+	margin: 0px 30px;}
+.menu {text-align: center;
+		position: fixed;
+		top: 0;
+		background-color: white;
+		width: 100%}
+.header a {padding: 15px;
+			background-color: white;
+			border-radius: 5px;
+			text-decoration: none;
+			color: black;
+			position: relative;
+			top: 20px}
+.header {background-image: url(polygons.png);
+		background-repeat: no-repeat;
+		width: 100%;
+		background-size:cover;
+		text-align: center;
+		padding-top: 120px;
+		padding-bottom: 140px;
+		color:white;
+		background-attachment: fixed;}
+h2,h5 {text-align: center;}
+.about img {width: 300px;
+			float: right;}
+.about p {text-align: justify;}
+.Fedor img {width: 100%;}
+.Fedor {width: 22%;
+		border: 0.5% solid grey;
+		box-shadow: 3px 3px 10px 4px grey;
+		padding: 0.5%;}
+.Yana img {width: 100%;}
+.Yana {width: 22%;
+		border: 0.5% solid grey;
+		box-shadow: 3px 3px 10px 4px grey;
+		padding: 0.5%;}
+.Petr img {width: 100%;}
+.Petr {width: 22%;
+		border: 0.5% solid grey;
+		box-shadow: 3px 3px 20px 3px grey;
+		padding: 0.5%;}
+.Dolot img {width: 100%;}
+.Dolot {width: 22%;
+		border: 0.5% solid grey;
+		box-shadow: 2px 2px 10px 4px grey;
+		padding: 0.5%;}
+.command h5 {text-align: center;}
+h6 {color: grey;}
+.command a {background-color: #055b73;
+			border-radius: 6px;
+			color: white;
+			text-decoration: none;
+			width: 100%;
+			text-align: center;
+			padding: 5px 0;
+			display: inline-block;}
+.command div {display :inline-block;
+				margin: 0.5%;}
+.commond h2 {text-align: center;}
+.price {background-color: grey;}
+li {list-style-type: none;
+	border-bottom: 1px solid grey;
+	padding: 10px 0;
+	text-align: center;}
+.spisok1 {background-color: white;
+		width: 30%;
+		display: inline-block;
+		padding: 0 ;
+		margin: 0px 7px;}
+.Name {background-color: black;
+		color: white}
+span {font-weight: bold;}
+.ruble {font-size: 25px;}
+.spisok1 a {text-decoration: none;
+			background-color: black;
+			border-radius: 5px;
+			color: white;
+			padding: 7px 10px;}
+.spisok1:hover {width: 31% ;}
+.Name:hover {background-color: #055b73}
+input {width: 100%;
+		margin: 5px 0;
+		padding: 4px;}
+.enter {width: 170px;
+		background-color: black;
+		color: white;
+		border:2px solid black;
+		border-radius: 5px;
+		margin: 0 auto}
+textarea {width: 100%;
+			margin: 5px 0;
+			height: 20px;
+			padding: 4px;}
+.top {border-top: 1px solid black;}
+.bottom {border-bottom: 1px solid black;}
+.down {background-color: black;
+		color: white;
+		width: 100%;}
+.contacts {text-align: center;}
+.mosc {background-image: url(address.png);
+	background-repeat: no-repeat;
+	height: 40px;
+	text-align: left;
+	padding-left: 30px;}
+.tel {background-image: url(phone.png);
+	background-repeat: no-repeat;
+	height: 40px;
+	text-align: left;
+	padding-left: 30px;}
+.mail {background-image: url(mail.png);
+	background-repeat: no-repeat;
+	height: 40px;
+	text-align: left;
+	padding-left: 30px;}
+

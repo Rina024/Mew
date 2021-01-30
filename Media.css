@@ -1,0 +1,10 @@
+@media
+(max-width: 600px) 
+{.Fedor {height: 370px;
+			width: 42%}
+.command {vertical-align: bottom;}
+.Тюрьма {vertical-align: bottom;}
+.menu a {padding: 10px 0;
+		width: 100%;
+		display: block;}
+.menu {position: static;}}
